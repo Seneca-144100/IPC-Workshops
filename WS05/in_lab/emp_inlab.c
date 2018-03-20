@@ -21,10 +21,12 @@ Date:
 int main(void) {
 
 	int option = 0;
-	printf("---=== EMPLOYEE DATA ===---\n\n");
 
 	// Declare a struct Employee array "emp" with SIZE elements 
 	// and initialize all elements to zero
+    
+    
+	printf("---=== EMPLOYEE DATA ===---\n\n");
 
 	do {
 		// Print the option list
