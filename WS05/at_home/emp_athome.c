@@ -45,13 +45,10 @@ ERROR: Incorrect Option: Try Again
 4. Remove Employee
 0. Exit
 
-Please select from the above options: 2
+Please select from the above options: 1
 
-Adding Employee
-===============
-Enter Employee ID: 111
-Enter Employee Age: 34
-Enter Employee Salary: 78980.88
+EMP ID  EMP AGE EMP SALARY
+======  ======= ==========
 
 1. Display Employee Information
 2. Add Employee
@@ -63,9 +60,9 @@ Please select from the above options: 2
 
 Adding Employee
 ===============
-Enter Employee ID: 112
-Enter Employee Age: 41
-Enter Employee Salary: 65000
+Enter Employee ID: 222
+Enter Employee Age: 22
+Enter Employee Salary: 22222.22
 
 1. Display Employee Information
 2. Add Employee
@@ -77,9 +74,9 @@ Please select from the above options: 2
 
 Adding Employee
 ===============
-Enter Employee ID: 113
-Enter Employee Age: 53
-Enter Employee Salary: 120345.78
+Enter Employee ID: 333
+Enter Employee Age: 33
+Enter Employee Salary: 33333.33
 
 1. Display Employee Information
 2. Add Employee
@@ -91,9 +88,23 @@ Please select from the above options: 2
 
 Adding Employee
 ===============
-Enter Employee ID: 114
-Enter Employee Age: 25
-Enter Employee Salary: 46780
+Enter Employee ID: 444
+Enter Employee Age: 44
+Enter Employee Salary: 44444.44
+
+1. Display Employee Information
+2. Add Employee
+3. Update Employee Salary
+4. Remove Employee
+0. Exit
+
+Please select from the above options: 2
+
+Adding Employee
+===============
+Enter Employee ID: 555
+Enter Employee Age: 55
+Enter Employee Salary: 55555.55
 
 1. Display Employee Information
 2. Add Employee
@@ -117,10 +128,10 @@ Please select from the above options: 1
 
 EMP ID  EMP AGE EMP SALARY
 ======  ======= ==========
-   111       34   78980.88
-   112       41   65000.00
-   113       53  120345.78
-   114       25   46780.00
+222       22   22222.22
+333       33   33333.33
+444       44   44444.44
+555       55   55555.55
 
 1. Display Employee Information
 2. Add Employee
@@ -132,8 +143,12 @@ Please select from the above options: 3
 
 Update Employee Salary
 ======================
-Enter Employee ID: 112
-The current salary is 65000.00
+Enter Employee ID: 123
+*** ERROR: Employee ID not found! ***
+Enter Employee ID: 321
+*** ERROR: Employee ID not found! ***
+Enter Employee ID: 333
+The current salary is 33333.33
 Enter Employee New Salary: 99999.99
 
 1. Display Employee Information
@@ -146,10 +161,10 @@ Please select from the above options: 1
 
 EMP ID  EMP AGE EMP SALARY
 ======  ======= ==========
-   111       34   78980.88
-   112       41   99999.99
-   113       53  120345.78
-   114       25   46780.00
+222       22   22222.22
+333       33   99999.99
+444       44   44444.44
+555       55   55555.55
 
 1. Display Employee Information
 2. Add Employee
@@ -161,8 +176,12 @@ Please select from the above options: 4
 
 Remove Employee
 ===============
-Enter Employee ID: 112
-Employee 112 will be removed
+Enter Employee ID: 789
+*** ERROR: Employee ID not found! ***
+Enter Employee ID: 987
+*** ERROR: Employee ID not found! ***
+Enter Employee ID: 333
+Employee 333 will be removed
 
 1. Display Employee Information
 2. Add Employee
@@ -174,9 +193,38 @@ Please select from the above options: 1
 
 EMP ID  EMP AGE EMP SALARY
 ======  ======= ==========
-   111       34   78980.88
-   113       53  120345.78
-   114       25   46780.00
+222       22   22222.22
+444       44   44444.44
+555       55   55555.55
+
+1. Display Employee Information
+2. Add Employee
+3. Update Employee Salary
+4. Remove Employee
+0. Exit
+
+Please select from the above options: 2
+
+Adding Employee
+===============
+Enter Employee ID: 666
+Enter Employee Age: 66
+Enter Employee Salary: 66666.66
+
+1. Display Employee Information
+2. Add Employee
+3. Update Employee Salary
+4. Remove Employee
+0. Exit
+
+Please select from the above options: 1
+
+EMP ID  EMP AGE EMP SALARY
+======  ======= ==========
+222       22   22222.22
+666       66   66666.66
+444       44   44444.44
+555       55   55555.55
 
 1. Display Employee Information
 2. Add Employee
@@ -187,4 +235,5 @@ EMP ID  EMP AGE EMP SALARY
 Please select from the above options: 0
 
 Exiting Employee Data Program. Good Bye!!!
+
 */
