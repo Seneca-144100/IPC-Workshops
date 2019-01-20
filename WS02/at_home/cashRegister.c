@@ -1,7 +1,9 @@
-/*
-     Name:      <your name> 
-     Student#:  <your student number>
-     Section:   <your course section letter>
+/* 
+    Name:           Full name here
+    Student Number: <XXXXXXXXX>
+    Email:          userID@myseneca.ca
+    Section:        xxx
+    Workshop:       2 (at-home)
 */
 
 #define _CRT_SECURE_NO_WARNINGS
