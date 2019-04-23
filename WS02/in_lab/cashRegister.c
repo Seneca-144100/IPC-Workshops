@@ -3,7 +3,7 @@
     Student Number: <XXXXXXXXX>
     Email:          userID@myseneca.ca
     Section:        xxx
-    Workshop:       2 (at-home)
+    Workshop:       2 (in-lab)
 */
 
 
