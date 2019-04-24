@@ -1,10 +1,10 @@
-//--------------------------------------------------
+//----------------------------------------------
 // Name:           Full name here
 // Student Number: #########
 // Email:          userID@myseneca.ca
 // Section:        XXX
 // Workshop:       5 (at-home)
-//--------------------------------------------------
+//----------------------------------------------
 
 
 // Copy your source code from in_lab file to here
