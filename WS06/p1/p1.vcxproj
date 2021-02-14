@@ -137,6 +137,13 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="main1.c" />
+    <ClCompile Include="w6p1.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="w6p1.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
