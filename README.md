@@ -7,6 +7,5 @@
 * **Workshop 4: 4%**
 * **Workshop 5: 4%**
 * **Workshop 6: 6%**
-
 ***
   **Total     :20%**
