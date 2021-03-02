@@ -87,7 +87,7 @@ int testIntFunction(void)
 	// Test-1: argument and return value
 	printf("TEST-1: ");
 	intB = getIntPositive(&intA);
-	if (intB == intB && intA == TEST_INT)
+	if (intA == intB && intA == TEST_INT)
 	{
 		printf("<PASSED>\n");
 	}
@@ -145,7 +145,7 @@ int testDoubleFunction(void)
 	// Test-1: argument and return value
 	printf("TEST-1: ");
 	dblB = getDoublePositive(&dblA);
-	if (dblB == dblB && dblA == TEST_DBL)
+	if (dblA == dblB && dblA == TEST_DBL)
 	{
 		printf("<PASSED>\n");
 	}
