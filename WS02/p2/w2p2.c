@@ -22,6 +22,9 @@ int main(void)
     // You will need this when converting from grams to pounds (lbs)
     const double GRAMS_IN_LBS = 453.5924;
 
+	// Note:
+	// You can convert Celsius to Fahrenheit given the following formula:
+	// fahrenheit = (celsius * 1.8) + 32.0);
 
     return 0;
 }
