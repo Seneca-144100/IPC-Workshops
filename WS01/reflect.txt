@@ -1,10 +1,10 @@
 ****************************************************************************
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : Ricky Prasad
+Student ID#: 113206171
+Email      : dprasad4@myseneca.ca
+Section    : IPC 144 NMM
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
@@ -12,3 +12,15 @@ shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 ****************************************************************************
 
+Questions
+1. What you have learned in completing this workshop.
+
+I learned how to print information onto the computer screen from source code. I learned about the ASCII table and how to substitute characters in using decimal numbers from the ASCII table. I also learned that puttin a \ infront of certain symbol will let you print that symbol onto the screen i.e // , /".
+
+2. Briefly describe what SSH is and how you used it in this workshop.
+
+SSH means Secure Shell and it allows us to acces a database or a computer from another network. I used the SSH which is putty in this case to store my finished work so the professor has access to it.
+
+3. Briefly describe what SFTP is and how you used it in this workshop.
+
+SFTP means Secure File Transfer Protocol and it is used to transfer files between computers. I used a SFTP is transfer my files to matrix so i could submit my work.
