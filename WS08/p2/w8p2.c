@@ -75,7 +75,7 @@ void displayCatFoodHeader(void)
 // 15. Display the formatted table header for the analysis results
 void displayReportHeader(void)
 {
-	printf("Analysis Report (Note: Serving = %dg\n", ???);
+	printf("Analysis Report (Note: Serving = %dg)\n", ???);
 	printf("---------------\n");
 	printf("SKU         $Price    Bag-lbs     Bag-kg     Bag-g Cal/Serv Servings  $/Serv   $/Cal\n");
 	printf("------- ---------- ---------- ---------- --------- -------- -------- ------- -------\n");
