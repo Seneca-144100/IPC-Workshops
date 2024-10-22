@@ -1,0 +1,52 @@
+# Visual Studio
+*.sdf
+*.sln
+*.user
+*.suo
+*.opensdf
+*.db
+Debug/
+ipch/
+x64/
+.vs/
+
+#tempfiles
+~$_*.*
+
+#codelite
+.clang/
+.codelite/
+Debug/
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
